@@ -6,8 +6,8 @@ some work to show my proficiency in R programming from Kaggle done a couple of y
 ## Motivation
 learning how to use R proficiently
 ## File Description
-**FullData.csv** - Kaggle dataset use for analysis
-**picking-the-best-model-with-caret-workbook.ipynb** - notebook of final analysis
+``FullData.csv`` - Kaggle dataset use for analysis
+``picking-the-best-model-with-caret-workbook.ipynb`` - notebook of final analysis
 ## Result
 successfully learning how to tune a randomForest model with caret
 ## Acknowledgement
