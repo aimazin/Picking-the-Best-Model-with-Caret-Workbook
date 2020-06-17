@@ -9,7 +9,7 @@ learning how to use R proficiently
 **FullData.csv** - Kaggle dataset use for analysis
 **picking-the-best-model-with-caret-workbook.ipynb** - notebook of final analysis
 ## Result
-successfully learning how to do a xgboost model with caret
+successfully learning how to tune a randomForest model with caret
 ## Acknowledgement
 I recognize the Kaggle team and the length they have gone to with educating me and so many others
 ## Licence
