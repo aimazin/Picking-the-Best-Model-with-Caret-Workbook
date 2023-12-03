@@ -12,5 +12,6 @@ learning how to use R proficiently
 successfully learning how to tune a randomForest and xgboost models with caret
 ## Acknowledgement
 I recognize the Kaggle team and the length they have gone to with educating me and so many others
-## Licence
-I authorise this code for good will, only :)
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
